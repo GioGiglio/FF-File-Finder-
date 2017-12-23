@@ -8,5 +8,5 @@ FF which stands for File Finder is a bash script that makes file searching direc
 4. Now just type `ff` on shell and start searching files!
 
 # Usage
-- `ff <filename>`
+- `ff [filename]`
 - `ff` ( the script will prompt you to insert the filename ) 
